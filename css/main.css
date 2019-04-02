@@ -1,0 +1,25 @@
+body {
+  background: #101010;
+  color: silver;
+  font-family: Consolas, monaco, monospace;
+  font-size: 12px;
+}
+div#maintext {
+  word-wrap: break-word;
+  width: 600px;
+  margin:0 auto;
+}
+div#centerleft {
+  text-align: left;
+  width: 275px;
+  position:absolute;
+}
+div#centerright {
+  margin-left: 300px;
+  text-align: left;
+  width: 275px;
+  position:absolute;
+}
+a {
+  color: #FFD27F;
+}
